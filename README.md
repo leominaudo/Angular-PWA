@@ -1,4 +1,4 @@
-# AngularPwa
+# Angular PWA
 
 This project is experimental. The goal is to explore and test the functionality of a PWA.
 
